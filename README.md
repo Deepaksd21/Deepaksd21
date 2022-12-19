@@ -2,7 +2,7 @@
 
 
 
-### A MERN Stack Developer   🖥  , having experience over 2 years who just loves learning and experimenting new technology and frameworks.Solving real life problems with your code is the best feeling you can have as a developer.
+### A MERN Stack Developer   🖥  having experience of over 2 years , who just loves learning and experimenting new technology and frameworks.Solving real life problems with your code is the best feeling you can have as a developer.
 ### Also an engineering graduate with a keen interest in technology. I have always been intrigued by the modern and innovative advancement of IT industry , so I wanted to be a part of this industry and contribute my best work to the community . It's just a beginning 🏆
 
 
