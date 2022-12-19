@@ -1,4 +1,6 @@
 Hey 👋, I'm Deepak Saud !
+A MERN Stack Developer 🖥 , having experience over 2 years and love learning and experimenting new technology and frameworks. 
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepaksd21&show_icons=true&theme=radical)
